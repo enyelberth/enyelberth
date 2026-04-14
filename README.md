@@ -52,7 +52,15 @@
 
 ## Estadísticas 📊
 
+---
+
+## Estadísticas 📊
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enyelberth&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyelberth&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=enyelberth&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Estadísticas de Enyelberth" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyelberth&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados por Enyelberth" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=enyelberth&theme=tokyonight" alt="Racha de contribuciones" />
 </p>
