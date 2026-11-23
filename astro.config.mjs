@@ -6,19 +6,18 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Enyelberth Rodríguez',
+			description: 'Full Stack Developer especializado en productos web robustos y claros.',
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/enyelberth' },
+				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://linkedin.com/in/enyelberth' },
+			],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Perfil',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Inicio', slug: '' },
 					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
 				},
 			],
 		}),
